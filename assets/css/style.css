@@ -1,0 +1,43 @@
+body{
+background-color: maroon
+}
+
+#train-inputs{
+    margin-top: 30px;
+    border: 2px solid #AA7E7E;
+}
+
+#train-table{
+    margin-bottom: 20px;
+    border: 2px solid #AA7E7E;
+}
+
+.jumbotron {
+    background-color: #F2DCDC;
+    color: black;
+    border: 2px solid #AA7E7E;
+    margin-top: 20px;
+}
+
+#train-table,
+#train-form{
+    background-color: white;
+}
+
+#train-form{
+    padding: 30px;
+}
+
+#train-table{
+padding: 30px;
+}
+
+.btn{
+    background-color: #AA7E7E;
+    border-color: #815858;
+}
+
+.btn:hover {
+    background-color: #a88ca8;
+    border-color: #f2dcdc;
+}
