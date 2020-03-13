@@ -31,4 +31,4 @@ CSS
 JAVASCRIPT
 Jquery
 
-Link to deployed assignment:
+Link to deployed assignment: https://khadijah07.github.io/train-scheduler/
