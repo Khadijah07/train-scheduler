@@ -1,5 +1,7 @@
 # train-scheduler
 
+SMU Coding Bootcamp 2019-2020 HW Week 7
+
 Overview
 
 In this assignment, I created a train schedule application that incorporates Firebase to host arrival and departure data. My app will retrieve and manipulate this information with Moment.js. This website will provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
